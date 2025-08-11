@@ -9,10 +9,6 @@ def max1(a,b):
     if a<b:
         return b
     return a
-# 4 4 4 4 
-# 4 3 3 3
-# 4 3 2 2
-# 4 3 2 1
 n = 4
 
 def upper(n):
