@@ -38,7 +38,7 @@ int main()
                 res[k++] = arr1[i];
                 i++;
                 j++; 
-            }  // skip duplicate insertion
+            } 
         }
         else if(arr1[i] < arr2[j]){
             i++;
