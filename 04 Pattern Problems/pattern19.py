@@ -18,6 +18,7 @@ def upper(n):
         for j in range(n-2,-1,-1):
             print(max1(n - i, n - j), end=" ")
         print()
+
 def lower(n):
     for i in range(n-1,-1,-1):
         for j in range(n):
